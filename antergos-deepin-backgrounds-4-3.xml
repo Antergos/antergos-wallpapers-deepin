@@ -3,7 +3,7 @@
 <wallpapers>
 <wallpaper>
 <name>antdeepin logo blue dots</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-blue-dots.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-blue-dots.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -12,7 +12,7 @@
 
 <wallpaper>
 <name>antdeepin logo blue flare</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-blue-flare.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-blue-flare.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -21,7 +21,7 @@
 
 <wallpaper>
 <name>antdeepin logo blue stripes dark</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-blue-stripes-dark.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-blue-stripes-dark.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -30,7 +30,7 @@
 
 <wallpaper>
 <name>antdeepin logo blue stripes</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-blue-stripes.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-blue-stripes.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -39,7 +39,7 @@
 
 <wallpaper>
 <name>antdeepin logo blue</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-blue.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-blue.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -48,7 +48,7 @@
 
 <wallpaper>
 <name>antdeepin logo box blue dots</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-box-blue-dots.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-box-blue-dots.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -57,7 +57,7 @@
 
 <wallpaper>
 <name>antdeepin logo box gray dots</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-box-gray-dots.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-box-gray-dots.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -66,7 +66,7 @@
 
 <wallpaper>
 <name>antdeepin logo gray dots</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-gray-dots.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-gray-dots.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -75,7 +75,7 @@
 
 <wallpaper>
 <name>antdeepin logo gray</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-gray.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-gray.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -84,7 +84,7 @@
 
 <wallpaper>
 <name>antdeepin logo red stripes dark</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-red-stripes-dark.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-red-stripes-dark.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -93,7 +93,7 @@
 
 <wallpaper>
 <name>antdeepin logo red</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-red.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-red.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -102,7 +102,7 @@
 
 <wallpaper>
 <name>antdeepin logo water</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-water.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-water.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -111,7 +111,7 @@
 
 <wallpaper>
 <name>antdeepin logo white dots</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-white-dots.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-white-dots.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -120,7 +120,7 @@
 
 <wallpaper>
 <name>antdeepin logo yellow dots</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-logo-yellow-dots.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-logo-yellow-dots.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -129,7 +129,7 @@
 
 <wallpaper>
 <name>antdeepin sticker blue</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-sticker-blue.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-sticker-blue.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -138,7 +138,7 @@
 
 <wallpaper>
 <name>antdeepin sticker line</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-sticker-line.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-sticker-line.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -147,7 +147,7 @@
 
 <wallpaper>
 <name>antdeepin sticker waves blue</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-sticker-waves-blue.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-sticker-waves-blue.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -156,7 +156,7 @@
 
 <wallpaper>
 <name>antdeepin sticker waves dark</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-sticker-waves-dark.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-sticker-waves-dark.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -165,7 +165,7 @@
 
 <wallpaper>
 <name>antdeepin sticker zone</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-sticker-zone.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-sticker-zone.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -174,7 +174,7 @@
 
 <wallpaper>
 <name>antdeepin sticker</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antdeepin-sticker.png</filename>
+<filename>/usr/share/wallpapers/deepin/antdeepin-sticker.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -183,7 +183,7 @@
 
 <wallpaper>
 <name>antergos deepin logos black</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antergos-deepin-logos-black.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antergos-deepin-logos-black.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -192,7 +192,7 @@
 
 <wallpaper>
 <name>antergos deepin logos blue</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antergos-deepin-logos-blue.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antergos-deepin-logos-blue.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -201,7 +201,7 @@
 
 <wallpaper>
 <name>antergos deepin logos bn</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antergos-deepin-logos-bn.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antergos-deepin-logos-bn.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -210,7 +210,7 @@
 
 <wallpaper>
 <name>antergos deepin logos dry bn</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antergos-deepin-logos-dry-bn.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antergos-deepin-logos-dry-bn.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -219,7 +219,7 @@
 
 <wallpaper>
 <name>antergos deepin logos dry</name>
-<filename>/usr/share/antergos/wallpapers-deepin/antergos-deepin-logos-dry.jpg</filename>
+<filename>/usr/share/wallpapers/deepin/antergos-deepin-logos-dry.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>

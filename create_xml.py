@@ -19,7 +19,7 @@ with open("antergos-deepin-backgrounds-4-3.xml", "w") as xml:
         human_name = human_name.replace("-", " ")
         human_name = human_name.replace("_", " ")
         xml.write('<name>{}</name>\n'.format(human_name))
-        xml.write('<filename>/usr/share/antergos/wallpapers-deepin/{}</filename>\n'.format(name))
+        xml.write('<filename>/usr/share/wallpapers/deepin/{}</filename>\n'.format(name))
         xml.write('<options>zoom</options>\n')
         xml.write('<pcolor>#ffffff</pcolor>\n')
         xml.write('<scolor>#ffffff</scolor>\n')
